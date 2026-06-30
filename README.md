@@ -1,43 +1,19 @@
-# Python Data Structures & Types
+Python Functions Practice
+This repository contains my practice exercises and notes on Python functions, developed as part of my Data Analytics learning journey. The project focuses on understanding how to define, structure, and utilize functions to write cleaner and more efficient code.
 
-A comprehensive collection of scripts demonstrating fundamental Python data types and structures. This project serves as a reference for beginners to understand how to store, organize, and manipulate data in Python.
+Topics Covered
+Defining Functions: Understanding def syntax and scope.
 
-## 📌 Project Overview
-This repository covers the essential building blocks of Python. Each module focuses on specific data types, providing clear syntax examples and common operations.
+Parameters & Arguments: Working with positional and keyword arguments.
 
-## 📂 Data Types & Structures Covered
+Return Statements: Learning how to effectively return values from functions.
 
-- **Basic Types:**
-  - `int`: Integers (whole numbers).
-  - `float`: Floating-point numbers (decimals).
-  - `str`: Strings (text data and manipulation).
-  
-- **Collections (Data Structures):**
-  - `list`: Ordered, mutable collections of items.
-  - `tuple`: Ordered, immutable collections.
-  - `set`: Unordered collections of unique elements.
-  - `dict`: Key-value pairs for efficient data retrieval.
+Code Reusability: Applying modular programming techniques to solve data-related problems.
 
-## 🚀 How to Run
+Learning Context
+These notebooks were created during my Data Analytics Bootcamp organized by Hamburg IT and DataCube. I am documenting my progress here to track my technical growth in Python programming.
 
-1. **Clone the repository** to your local machine.
-2. **Navigate to the folder** where the project files are located.
-3. **Run the script** using your terminal or IDE:
-```bash
-   python main.py
-💡 Key Concepts Included
-Declaration: How to initialize different types.
+How to Run
+You can view these notebooks directly on GitHub or open them in Google Colab by clicking the "Open in Colab" button at the top of each notebook file.
 
-Mutability: Understanding which structures can be changed and which cannot.
-
-Operations: Common methods like .append(), .keys(), .add(), etc.
-
-Type Checking: Using the type() function to verify data structures.
-
-🤝 Contributing
-Contributions are welcome! If you have suggestions or want to add more examples, feel free to open an issue or submit a pull request.
-
-📝 License
-This project is open-source and available under the MIT License.
-
-If you find this project useful, please consider giving it a star ⭐️
+Created by Manaf Abasov
